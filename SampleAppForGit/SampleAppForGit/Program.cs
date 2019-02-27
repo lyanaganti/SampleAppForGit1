@@ -10,7 +10,7 @@ namespace SampleAppForGit
     {
         static void Main(string[] args)
         {
-
+            //test code
         }
     }
 }
